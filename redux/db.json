@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "aaa@gmail.com",
+      "password": "Password1",
+      "createdAt": 12322132142423
+    },
+    {
+      "email": "aaa@mail.ru",
+      "password": "Password1",
+      "createdAt": 170193733322222,
+      "id": 2
+    },
+    {
+      "email": "aaa@yahoo.net",
+      "password": "Password1",
+      "createdAt": 1701937967788,
+      "id": 3
+    }
+  ],
+  "notes": [
+    {
+      "title": "text",
+      "text": "234124",
+      "createdAt": 1701968652169,
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "title": "pppp",
+      "text": "pppp",
+      "createdAt": 1701968671819,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "title": "dfsgcvhbjnmk",
+      "text": "23342",
+      "createdAt": 1702038128086,
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "title": "121232134567",
+      "text": "234324",
+      "createdAt": 1702038258781,
+      "userId": 1,
+      "id": 8
+    }
+  ]
+}
